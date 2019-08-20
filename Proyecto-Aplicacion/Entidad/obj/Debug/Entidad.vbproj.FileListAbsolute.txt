@@ -1,0 +1,10 @@
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Entidad\bin\Debug\Entidad.dll
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Entidad\bin\Debug\Entidad.pdb
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Entidad\bin\Debug\Entidad.xml
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Entidad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Entidad\obj\Debug\Entidad.Resources.resources
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Entidad\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Entidad\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Entidad\obj\Debug\Entidad.dll
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Entidad\obj\Debug\Entidad.xml
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Entidad\obj\Debug\Entidad.pdb

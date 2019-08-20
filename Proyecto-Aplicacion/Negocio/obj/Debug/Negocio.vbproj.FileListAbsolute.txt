@@ -1,0 +1,16 @@
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Negocio\bin\Debug\Negocio.dll
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Negocio\bin\Debug\Negocio.pdb
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Negocio\bin\Debug\Negocio.xml
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Negocio\bin\Debug\Datos.dll
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Negocio\bin\Debug\Entidad.dll
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Negocio\bin\Debug\Datos.pdb
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Negocio\bin\Debug\Datos.xml
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Negocio\bin\Debug\Entidad.pdb
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Negocio\bin\Debug\Entidad.xml
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Negocio\obj\Debug\Negocio.Resources.resources
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Negocio\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Negocio\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Negocio\obj\Debug\Negocio.dll
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Negocio\obj\Debug\Negocio.xml
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,13 @@
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Datos\bin\Debug\Datos.dll
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Datos\bin\Debug\Datos.pdb
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Datos\bin\Debug\Datos.xml
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Datos\bin\Debug\Entidad.dll
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Datos\bin\Debug\Entidad.pdb
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Datos\bin\Debug\Entidad.xml
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Datos\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Datos\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Datos\obj\Debug\Datos.dll
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Datos\obj\Debug\Datos.xml
+C:\Users\cliente\documents\visual studio 2010\Projects\Proyecto-Aplicacion\Datos\obj\Debug\Datos.pdb
